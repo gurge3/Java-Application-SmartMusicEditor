@@ -1,0 +1,102 @@
+Command: 144 Note level: 64 volume: 72
+Command: 192 Instrument: 1
+Command: 144 Note level: 55 volume: 70
+Command: 192 Instrument: 1
+Command: 144 Note level: 62 volume: 72
+Command: 192 Instrument: 1
+Command: 128 Note level: 64 volume: 72
+Command: 144 Note level: 60 volume: 71
+Command: 192 Instrument: 1
+Command: 128 Note level: 62 volume: 72
+Command: 144 Note level: 62 volume: 79
+Command: 192 Instrument: 1
+Command: 128 Note level: 60 volume: 71
+Command: 128 Note level: 55 volume: 70
+Command: 144 Note level: 64 volume: 85
+Command: 192 Instrument: 1
+Command: 144 Note level: 55 volume: 79
+Command: 192 Instrument: 1
+Command: 128 Note level: 62 volume: 79
+Command: 144 Note level: 64 volume: 78
+Command: 192 Instrument: 1
+Command: 128 Note level: 64 volume: 85
+Command: 144 Note level: 64 volume: 74
+Command: 192 Instrument: 1
+Command: 128 Note level: 64 volume: 78
+Command: 128 Note level: 55 volume: 79
+Command: 128 Note level: 64 volume: 74
+Command: 144 Note level: 55 volume: 77
+Command: 192 Instrument: 1
+Command: 144 Note level: 62 volume: 75
+Command: 192 Instrument: 1
+Command: 144 Note level: 62 volume: 77
+Command: 192 Instrument: 1
+Command: 128 Note level: 62 volume: 75
+Command: 144 Note level: 62 volume: 75
+Command: 192 Instrument: 1
+Command: 128 Note level: 62 volume: 77
+Command: 144 Note level: 55 volume: 79
+Command: 192 Instrument: 1
+Command: 144 Note level: 64 volume: 82
+Command: 192 Instrument: 1
+Command: 128 Note level: 55 volume: 77
+Command: 128 Note level: 62 volume: 75
+Command: 144 Note level: 67 volume: 84
+Command: 192 Instrument: 1
+Command: 128 Note level: 55 volume: 79
+Command: 128 Note level: 64 volume: 82
+Command: 144 Note level: 67 volume: 75
+Command: 192 Instrument: 1
+Command: 128 Note level: 67 volume: 84
+Command: 144 Note level: 55 volume: 78
+Command: 192 Instrument: 1
+Command: 144 Note level: 64 volume: 73
+Command: 192 Instrument: 1
+Command: 128 Note level: 67 volume: 75
+Command: 144 Note level: 62 volume: 69
+Command: 192 Instrument: 1
+Command: 128 Note level: 64 volume: 73
+Command: 144 Note level: 60 volume: 71
+Command: 192 Instrument: 1
+Command: 128 Note level: 62 volume: 69
+Command: 144 Note level: 62 volume: 80
+Command: 192 Instrument: 1
+Command: 128 Note level: 60 volume: 71
+Command: 144 Note level: 55 volume: 79
+Command: 192 Instrument: 1
+Command: 144 Note level: 64 volume: 84
+Command: 192 Instrument: 1
+Command: 128 Note level: 55 volume: 78
+Command: 128 Note level: 62 volume: 80
+Command: 144 Note level: 64 volume: 76
+Command: 192 Instrument: 1
+Command: 128 Note level: 64 volume: 84
+Command: 144 Note level: 64 volume: 74
+Command: 192 Instrument: 1
+Command: 128 Note level: 64 volume: 76
+Command: 144 Note level: 64 volume: 77
+Command: 192 Instrument: 1
+Command: 128 Note level: 64 volume: 74
+Command: 144 Note level: 62 volume: 75
+Command: 192 Instrument: 1
+Command: 144 Note level: 55 volume: 78
+Command: 192 Instrument: 1
+Command: 128 Note level: 55 volume: 79
+Command: 128 Note level: 64 volume: 77
+Command: 144 Note level: 62 volume: 74
+Command: 192 Instrument: 1
+Command: 128 Note level: 62 volume: 75
+Command: 144 Note level: 64 volume: 81
+Command: 192 Instrument: 1
+Command: 128 Note level: 62 volume: 74
+Command: 144 Note level: 62 volume: 70
+Command: 192 Instrument: 1
+Command: 128 Note level: 64 volume: 81
+Command: 144 Note level: 60 volume: 73
+Command: 192 Instrument: 1
+Command: 144 Note level: 52 volume: 72
+Command: 192 Instrument: 1
+Command: 128 Note level: 55 volume: 78
+Command: 128 Note level: 62 volume: 70
+Command: 128 Note level: 60 volume: 73
+Command: 128 Note level: 52 volume: 72
